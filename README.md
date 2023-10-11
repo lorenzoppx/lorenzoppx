@@ -65,10 +65,10 @@
     <br>
         <p align="center">
             <a href="https://github.com/lorenzoppx">
-                <img alt="lorenzoppx's Github Stats" src="https://github-readme-stats.vercel.app/api?username=luizcarloscf&theme=github_dark&show_icons=true&line_height=27&count_private=true" height="180em" />
+                <img alt="lorenzoppx's Github Stats" src="https://github-readme-stats.vercel.app/api?username=lorenzoppx&theme=github_dark&show_icons=true&line_height=27&count_private=true" height="180em" />
             </a>
             <a href="https://github.com/lorenzoppx">
-                <img alt="lorenzoppx's Github Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizcarloscf&layout=compact&theme=github_dark&show_icons=true&line_height=27" height="180em"  />
+                <img alt="lorenzoppx's Github Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lorenzoppx&layout=compact&theme=github_dark&show_icons=true&line_height=27" height="180em"  />
             </a>
         </p>
     <br>
@@ -79,7 +79,7 @@
     <br>
         <p align="center">
             <a href="https://wakatime.com/@lorenzoppx">
-                <img alt="lorenzoppx's Wakatime Stats" src="https://wakatime.com/share/@luizcarloscf/e73707d2-2e7c-4f2a-8522-75f2224cb5a8.svg"/>
+                <img alt="lorenzoppx's Wakatime Stats" src="https://wakatime.com/share/@lorenzoppx/e73707d2-2e7c-4f2a-8522-75f2224cb5a8.svg"/>
             </a>
         </p>
     <br>
