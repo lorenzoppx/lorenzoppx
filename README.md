@@ -1,5 +1,7 @@
 <h2 align="center">Hi there! I'm Lorenzo 👋 </h1>
 
+I'm Eletrical Engineer studying web3.
+
 ---
 <details>
     <summary> Languages and Tools </summary>
