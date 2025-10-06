@@ -1,6 +1,6 @@
-<h2 align="center">Hi there! I'm Lorenzo 👋 </h1>
+<h2 align="center">Hi! I'm Lorenzo 👋 </h1>
 
-I'm Eletrical Engineer studying web3.
+I'm Eletrical Engineer studying web3. Get better at developing financial solutions.
 
 ---
 <details>
