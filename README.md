@@ -58,6 +58,9 @@ I'm Eletrical Engineer studying web3.
             <a href="https://www.latex-project.org/">
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" alt="LaTex" height="40" width="40" />
             </a>
+            <a href="https://web3.foundation/">
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpjeIhR-t95cX-RgaUcPWZLpI9jWUbMVxbjA&s" alt="LaTex" height="40" width="40" />
+            </a>
         </p>
     <br>
 </details>
@@ -71,17 +74,6 @@ I'm Eletrical Engineer studying web3.
             </a>
             <a href="https://github.com/lorenzoppx">
                 <img alt="lorenzoppx's Github Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lorenzoppx&layout=compact&theme=github_dark&show_icons=true&line_height=27" height="180em"  />
-            </a>
-        </p>
-    <br>
-</details>
-
-<details>
-    <summary> Wakatime Stats </summary>
-    <br>
-        <p align="center">
-            <a href="https://wakatime.com/@lorenzoppx">
-                <img alt="lorenzoppx's Wakatime Stats" src="https://wakatime.com/share/@lorenzoppx/e73707d2-2e7c-4f2a-8522-75f2224cb5a8.svg"/>
             </a>
         </p>
     <br>
